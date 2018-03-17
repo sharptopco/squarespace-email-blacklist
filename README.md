@@ -19,8 +19,8 @@ Usage
 To use this project, paste the following code into your page...
 
 ```html
-<script type="javascript" src="https://sharptopco.github.io/squarespace-email-blacklist/email-blacklist.js"></script>
-<script type="javascript">
+<script type="text/javascript" src="https://sharptopco.github.io/squarespace-email-blacklist/email-blacklist.js"></script>
+<script type="text/javascript">
     $( document ).ready( function() {
         initializeBlacklistListener();
     });
